@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string-array name="realty_type">
+        <item> Торговое здание </item>
+        <item> Административный комплекс  </item>
+        <item> Частный дом </item>
+        <item> Многоквартирный дом </item>
+        <item> Участок земли </item>
+        <item> Офисное помещение </item>
+    </string-array>
+    <string-array name="credit_term">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+    </string-array>
+</resources>

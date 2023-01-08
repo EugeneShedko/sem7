@@ -1,0 +1,15 @@
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\bin\Release\Lab1WPF.exe.config
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\bin\Release\Lab1WPF.exe
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\bin\Release\Lab1WPF.pdb
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.csproj.AssemblyReference.cache
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\MainWindow.g.cs
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\App.g.cs
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF_MarkupCompile.cache
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF_MarkupCompile.lref
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\MainWindow.baml
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.g.resources
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.Properties.Resources.resources
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.csproj.GenerateResource.cache
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.csproj.CoreCompileInputs.cache
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.exe
+d:\Учеба\Программирование в Internet\Лабораторная работа №1\1A\Lab1\Lab1WPF\obj\Release\Lab1WPF.pdb

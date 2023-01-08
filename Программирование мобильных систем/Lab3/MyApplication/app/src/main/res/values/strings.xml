@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string-array name="PublishHouseName">
+        <item>АСТ</item>
+        <item>URSS</item>
+        <item>ГРАНД-ФАИР</item>
+        <item>Интеллект</item>
+        <item>ИНФРА-М</item>
+        <item>ОНИКС</item>
+    </string-array>
+    <string-array name="Boorgenre">
+        <item>Боевик</item>
+        <item>Детектив</item>
+        <item>Исторический роман</item>
+        <item>Любовный роман</item>
+        <item>Мистика</item>
+        <item>Приключения.</item>
+    </string-array>
+</resources>

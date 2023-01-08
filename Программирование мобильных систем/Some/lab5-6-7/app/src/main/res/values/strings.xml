@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab5</string>
+
+    <string-array name="DayWeek">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+
+    <string-array name="NumWeek">
+     <item>1</item>
+     <item>2</item>
+    </string-array>
+</resources>

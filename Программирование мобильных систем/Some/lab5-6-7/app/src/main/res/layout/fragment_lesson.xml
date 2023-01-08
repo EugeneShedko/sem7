@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+    android:showAsAction="ifRoom"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="5dp"
+        android:gravity="center">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="dayOfWeeek"
+                android:textSize="20dp"
+                android:id="@+id/dayOfWeekIdChange"
+                android:entries="@array/DayWeek"/>
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:entries="@array/NumWeek"
+                android:id="@+id/numWeekIdChange"
+               />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/startTimeChange"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="time"
+                android:textSize="20dp" />
+            <TextView
+
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="-"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/EndTimeChange"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="time"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+
+        <EditText
+            android:gravity="center"
+            android:id="@+id/lessonNameChange"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+
+            android:textSize="20dp"
+           />
+
+        <LinearLayout
+            android:layout_width="252dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:gravity="right"
+                android:id="@+id/auditoryChange"
+                android:layout_width="122dp"
+                android:layout_height="wrap_content"
+                android:hint="auditory"
+                android:textSize="20dp" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="-"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/KorpusChange"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:hint="korpus"
+                android:textSize="20dp" />
+        </LinearLayout>
+        <Spinner
+            android:id="@+id/teacherChange"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Сохранить изменения"
+            android:id="@+id/saveChange"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

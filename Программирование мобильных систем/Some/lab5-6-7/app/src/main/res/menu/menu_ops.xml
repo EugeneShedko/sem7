@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addTeacherMenu"
+        android:title="Добавить преподавателя"/>
+
+    <item android:id="@+id/addLessonMenu"
+
+        android:title="Добавить занятие"/>
+    <item android:id="@+id/SortMenu"
+
+        android:title="Сортировать по дням"/>
+
+    <item android:id="@+id/FirstNumWeekMenu"
+        android:title="Показать занятия по первой неделе"/>
+
+    <item android:id="@+id/SecondNumWeekMenu"
+        android:title="Показать занятия по второй неделе"/>
+
+    <item android:id="@+id/AllLessonnsMenu"
+        android:title="Показать все занятия"/>
+</menu>

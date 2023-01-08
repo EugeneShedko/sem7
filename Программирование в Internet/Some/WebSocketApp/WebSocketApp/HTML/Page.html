@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" charset="utf-8" />
+    <title>WebSockets</title>
+
+    <script src="../JS/modernizr-custom.js"></script>
+    <script src="../JS/webSockets.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <header><h1>Web Socket App</h1></header>
+    <section style="width:800px; float:left">
+        <div id="webSocketProperties">
+            Web Socket поддерживается?:
+            <span id="support"></span><br />
+        </div>
+    </section>
+    <br />
+    <section style="width: 215px; border: solid">
+        <div style="margin: 5px 5px 5px 5px">
+            <input id="buttonStart" type="button" value="Пуск"
+                   onclick="appStart()" style="width: 100px" />
+            <input id="buttonStop" type="button" value="Стоп"
+                   onclick="appStop()" style="width: 100px" />
+            <textarea id="textArea" rows="20" cols="25" style="text-align: center;" readonly></textarea>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="inputFirstName">Name (required)</string>
+    <string name="inputMiddleName">Middle name (required)</string>
+    <string name="inputLastName">Last name (required)</string>
+    <string name="inputBirthPlace">Birth place</string>
+    <string name="inputBirthDate">Birth date</string>
+    <string name="date">Date</string>
+    <string name="university">University</string>
+    <string name="course">Course</string>
+    <string name="specialization">Specialization</string>
+</resources>

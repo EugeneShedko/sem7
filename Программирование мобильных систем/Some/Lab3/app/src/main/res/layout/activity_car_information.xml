@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CarInformationActivity">
+
+
+
+        <TextView
+            android:id="@+id/carBrand"
+            android:layout_width="270dp"
+            android:layout_height="40dp"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.023" />
+
+        <TextView
+        android:id="@+id/carModel"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/carBrand"
+        app:layout_constraintTop_toBottomOf="@+id/carBrand"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/typeBody"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/carModel"
+        app:layout_constraintTop_toBottomOf="@+id/carModel"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/placeOfAssembly"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/typeBody"
+        app:layout_constraintTop_toBottomOf="@+id/typeBody"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/dateOfAssembly"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/placeOfAssembly"
+        app:layout_constraintTop_toBottomOf="@+id/placeOfAssembly"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/carMileage"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/dateOfAssembly"
+        app:layout_constraintTop_toBottomOf="@+id/dateOfAssembly"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/engineType"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/carMileage"
+        app:layout_constraintTop_toBottomOf="@+id/carMileage"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/engineVolume"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/engineType"
+        app:layout_constraintTop_toBottomOf="@+id/engineType"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/phone"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:onClick="goPhone"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/engineVolume"
+        app:layout_constraintTop_toBottomOf="@+id/engineVolume"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:onClick="goEmail"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/phone"
+        app:layout_constraintTop_toBottomOf="@+id/phone"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <TextView
+        android:id="@+id/link"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:onClick="goSocialNet"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/email"
+        app:layout_constraintTop_toBottomOf="@+id/email"
+        app:layout_constraintVertical_bias="0.02" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="295dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="232dp"
+            android:onClick="back"
+            android:text="Назад"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.891" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
