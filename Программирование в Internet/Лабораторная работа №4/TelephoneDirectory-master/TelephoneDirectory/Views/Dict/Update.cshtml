@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <h3>Редактирование записи</h3>
+        <form method="post" action="/Dict/UpdateSave/">
+            <input type="hidden" value="@ViewBag.Id" name="Id" />
+            <label>Фамилия: </label> <input type="text" value="@ViewBag.LastName" name="LastName" />
+            <label>Номер телефона: </label> <input type="text" value="@ViewBag.PhoneNumber" name="PhoneNumber" />
+            <input type="submit" value="Редактировать" />
+        </form>
+    </div>
+</body>
+</html>

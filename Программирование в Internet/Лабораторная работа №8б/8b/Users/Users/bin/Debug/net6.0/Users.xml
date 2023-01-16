@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Users</name>
+    </assembly>
+    <members>
+        <member name="M:Users.Controllers.ValuesController.Get">
+            <summary>Get all Users</summary>
+        </member>
+        <member name="M:Users.Controllers.ValuesController.Get(System.Int32)">
+            <summary>Get User by Id</summary>
+            <param name="id" examle="101">The User id</param>
+        </member>
+        <member name="M:Users.Controllers.ValuesController.Post(Models.User)">
+            <summary>Add new User</summary>
+        </member>
+        <member name="M:Users.Controllers.ValuesController.Put(System.Int32,Models.User)">
+            <summary>Update user</summary>
+        </member>
+        <member name="M:Users.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>Delete</summary>
+            <param name="id" example="101">The User id</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneDirectory", "TelephoneDirectory\TelephoneDirectory.csproj", "{D577FEB8-9B7A-4887-9510-742A3D44E461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{E90DDF96-441A-4951-B4C6-523D457C520C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D577FEB8-9B7A-4887-9510-742A3D44E461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D577FEB8-9B7A-4887-9510-742A3D44E461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D577FEB8-9B7A-4887-9510-742A3D44E461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D577FEB8-9B7A-4887-9510-742A3D44E461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90DDF96-441A-4951-B4C6-523D457C520C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90DDF96-441A-4951-B4C6-523D457C520C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90DDF96-441A-4951-B4C6-523D457C520C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90DDF96-441A-4951-B4C6-523D457C520C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FDF85E4-1275-4741-A919-11C70BF58291}
+	EndGlobalSection
+EndGlobal

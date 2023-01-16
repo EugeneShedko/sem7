@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="https://ssa.by/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="https://ssa.by/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="https://ssa.by/">
+      <s:element name="GetCollection">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetCollectionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCollectionResult" type="tns:ArrayOfPhoneRecord" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPhoneRecord">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="PhoneRecord" nillable="true" type="tns:PhoneRecord" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PhoneRecord">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AddElement">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="phoneRecord" type="tns:PhoneRecord" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddElementResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateElement">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="phoneRecord" type="tns:PhoneRecord" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateElementResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeleteElement">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="phoneRecord" type="tns:PhoneRecord" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteElementResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetCollectionSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCollection" />
+  </wsdl:message>
+  <wsdl:message name="GetCollectionSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCollectionResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddElementSoapIn">
+    <wsdl:part name="parameters" element="tns:AddElement" />
+  </wsdl:message>
+  <wsdl:message name="AddElementSoapOut">
+    <wsdl:part name="parameters" element="tns:AddElementResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateElementSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateElement" />
+  </wsdl:message>
+  <wsdl:message name="UpdateElementSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateElementResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteElementSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteElement" />
+  </wsdl:message>
+  <wsdl:message name="DeleteElementSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteElementResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CollectionManagerServiceSoap">
+    <wsdl:operation name="GetCollection">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">получить все элементы</wsdl:documentation>
+      <wsdl:input message="tns:GetCollectionSoapIn" />
+      <wsdl:output message="tns:GetCollectionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddElement">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">добавить элемент</wsdl:documentation>
+      <wsdl:input message="tns:AddElementSoapIn" />
+      <wsdl:output message="tns:AddElementSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateElement">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">обновить элемент</wsdl:documentation>
+      <wsdl:input message="tns:UpdateElementSoapIn" />
+      <wsdl:output message="tns:UpdateElementSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteElement">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">удалить элемент</wsdl:documentation>
+      <wsdl:input message="tns:DeleteElementSoapIn" />
+      <wsdl:output message="tns:DeleteElementSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CollectionManagerServiceSoap" type="tns:CollectionManagerServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetCollection">
+      <soap:operation soapAction="https://ssa.by/GetCollection" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddElement">
+      <soap:operation soapAction="https://ssa.by/AddElement" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateElement">
+      <soap:operation soapAction="https://ssa.by/UpdateElement" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteElement">
+      <soap:operation soapAction="https://ssa.by/DeleteElement" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CollectionManagerServiceSoap12" type="tns:CollectionManagerServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetCollection">
+      <soap12:operation soapAction="https://ssa.by/GetCollection" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddElement">
+      <soap12:operation soapAction="https://ssa.by/AddElement" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateElement">
+      <soap12:operation soapAction="https://ssa.by/UpdateElement" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteElement">
+      <soap12:operation soapAction="https://ssa.by/DeleteElement" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CollectionManagerService">
+    <wsdl:port name="CollectionManagerServiceSoap" binding="tns:CollectionManagerServiceSoap">
+      <soap:address location="https://localhost:44374/WebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CollectionManagerServiceSoap12" binding="tns:CollectionManagerServiceSoap12">
+      <soap12:address location="https://localhost:44374/WebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

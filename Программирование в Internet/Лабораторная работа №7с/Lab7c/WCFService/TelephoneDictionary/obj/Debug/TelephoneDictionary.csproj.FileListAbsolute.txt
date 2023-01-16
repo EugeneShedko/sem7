@@ -1,0 +1,11 @@
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\bin\Debug\TelephoneDictionary.exe.config
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\bin\Debug\TelephoneDictionary.exe
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\bin\Debug\TelephoneDictionary.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.csproj.AssemblyReference.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.Form1.resources
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.Properties.Resources.resources
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.csproj.GenerateResource.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.csproj.CoreCompileInputs.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.exe
+D:\Учеба\Программирование в Internet\Лабораторная работа №7с\Lab7c\WCFService\TelephoneDictionary\obj\Debug\TelephoneDictionary.pdb

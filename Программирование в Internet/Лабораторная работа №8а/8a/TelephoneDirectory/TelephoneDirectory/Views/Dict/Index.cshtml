@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section Header
+    {
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 300px;
+        }
+
+        td {
+            padding: 3px;
+            border: 1px solid black;
+        }
+
+        .whitetd {
+            padding: 3px;
+            border: 1px solid white;
+        }
+    </style>
+    <h3>Телефонный справочник</h3>
+}
+
+
+<div>
+
+    <p><a href="/Dict/Add/">Добавить</a></p>
+    <table>
+        <tr>
+            <td><p>Фамилия</p></td>
+            <td><p>Телефон</p></td>
+        </tr>
+        @foreach (var item in ViewBag.PhoneRecords)
+        {
+            @Html.Partial("PartialView", (object)item);
+        }
+    </table>
+</div>
+
+@section Footer
+{
+    <p>Footer</p>
+}
+

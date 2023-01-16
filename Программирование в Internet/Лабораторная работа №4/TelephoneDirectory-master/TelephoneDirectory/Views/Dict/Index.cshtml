@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 300px;
+        }
+
+        td {
+            padding: 3px;
+            border: 1px solid black;
+        }
+
+        .whitetd {
+            padding: 3px;
+            border: 1px solid white;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>Телефонный справочник</h3>
+        <p><a href="/Dict/Add/">Добавить</a></p>
+        <table>
+            <tr>
+                <td><p>Фамилия</p></td>
+                <td><p>Телефон</p></td>
+            </tr>
+            @foreach (var item in ViewBag.PhoneRecords)
+            {
+        <tr>
+            <td><p>@item.LastName</p></td>
+            <td><p>@item.PhoneNumber</p></td>
+            <td class="whitetd"><p><a href="/Dict/Update/@item.Id">Обновить</a></p></td>
+            <td class="whitetd"><p><a href="/Dict/Delete/@item.Id">Удалить</a></p></td>
+        </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

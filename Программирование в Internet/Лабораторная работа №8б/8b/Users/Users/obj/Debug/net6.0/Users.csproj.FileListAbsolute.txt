@@ -1,0 +1,148 @@
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.csproj.AssemblyReference.cache
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.AssemblyInfoInputs.cache
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.AssemblyInfo.cs
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.csproj.CoreCompileInputs.cache
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.RazorAssemblyInfo.cache
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.RazorAssemblyInfo.cs
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\appsettings.json
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.staticwebassets.runtime.json
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.exe
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.deps.json
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.runtimeconfig.json
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.pdb
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Users.xml
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Models.dll
+D:\Учеба\Stas\8b\Users\Users\bin\Debug\net6.0\Models.pdb
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.Users.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.build.Users.props
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Users.props
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Users.props
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\scopedcss\bundle\Users.styles.css
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.csproj.CopyComplete
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.dll
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\refint\Users.dll
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.pdb
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\Users.genruntimeconfig.cache
+D:\Учеба\Stas\8b\Users\Users\obj\Debug\net6.0\ref\Users.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\appsettings.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.staticwebassets.runtime.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.exe
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.deps.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.runtimeconfig.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Users.xml
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Models.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\bin\Debug\net6.0\Models.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.csproj.AssemblyReference.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.AssemblyInfoInputs.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.AssemblyInfo.cs
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.csproj.CoreCompileInputs.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.RazorAssemblyInfo.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.RazorAssemblyInfo.cs
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.Users.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.build.Users.props
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Users.props
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Users.props
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\scopedcss\bundle\Users.styles.css
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.csproj.CopyComplete
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\refint\Users.dll
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\Users.genruntimeconfig.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №8б\8b\Users\Users\obj\Debug\net6.0\ref\Users.dll

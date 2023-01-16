@@ -1,0 +1,8 @@
+﻿@using Model;
+@model PhoneRecord
+<tr>
+    <td><p>@Model.LastName</p></td>
+    <td><p>@Model.PhoneNumber</p></td>
+    <td class="whitetd"><p><a href="/Dict/Update/@Model.Id">Обновить</a></p></td>
+    <td class="whitetd"><p><a href="/Dict/Delete/@Model.Id">Удалить</a></p></td>
+</tr>

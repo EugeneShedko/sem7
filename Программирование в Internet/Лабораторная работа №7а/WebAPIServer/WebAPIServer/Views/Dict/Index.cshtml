@@ -1,0 +1,96 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/JS/AJAX.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+</head>
+<body onload="GetCollectionRequst()">
+    <div>
+        <style>
+            table {
+                border-collapse: collapse;
+            }
+
+            .t {
+                width: 310px;
+            }
+
+            #info-table {
+                width: 500px;
+            }
+
+            td {
+                padding: 3px;
+                border: 1px solid black;
+            }
+
+            .whitetd {
+                padding: 3px;
+                border: 1px solid white;
+            }
+        </style>
+        <h3>Телефонный справочник</h3>
+
+        <div id="add-table">
+            <table class="t">
+                <tr>
+                    <td>
+                        <form method="post">
+                            <label>Фамилия: </label> <input type="text" name="LastName" id="last-name" />
+                            <br />
+                            <br />
+                            <label>Номер телефона: </label> <input type="text" name="PhoneNumber" id="phone-number" />
+                            <br />
+                            <br />
+                            <button onclick="AddElementRequst()">Добавить</button>
+                            <span id="result-add"></span>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        
+        <div id="update-table" style="display: none">
+            <table class="t">
+                <tr>
+                    <td>
+                        <form method="post">
+                            <input type="hidden" id="update-id" />
+                            <label>Фамилия: </label> <input type="text" name="LastName" id="update-last-name" />
+                            <br />
+                            <br />
+                            <label>Номер телефона: </label> <input type="text" name="PhoneNumber" id="update-phone-number" />
+                            <br />
+                            <br />
+                            <button onclick="UpdateElementRequst();">Редактировать</button>
+                            <button onclick="ChangeToAdd()">Отмена</button>
+                            <span id="result-add"></span>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        
+
+        <br />
+        <div>
+            <table id="info-table">
+                <tr>
+                    <td><p>Id</p></td>
+                    <td><p>Фамилия</p></td>
+                    <td><p>Телефон</p></td>
+                </tr>
+            </table>
+        </div>
+        
+    </div>
+</body>
+</html>

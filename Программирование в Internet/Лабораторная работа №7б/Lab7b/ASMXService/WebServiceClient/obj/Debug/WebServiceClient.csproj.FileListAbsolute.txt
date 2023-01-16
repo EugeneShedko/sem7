@@ -1,0 +1,11 @@
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\bin\Debug\WebServiceClient.exe
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\bin\Debug\WebServiceClient.pdb
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.csproj.AssemblyReference.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.Form1.resources
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.csproj.CoreCompileInputs.cache
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.exe
+D:\Учеба\Программирование в Internet\Лабораторная работа №7б\Lab7b\ASMXService\WebServiceClient\obj\Debug\WebServiceClient.pdb

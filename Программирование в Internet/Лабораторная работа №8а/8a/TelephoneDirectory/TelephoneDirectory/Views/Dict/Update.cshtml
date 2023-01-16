@@ -1,0 +1,17 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Header
+    {
+    <h3>Редактирование записи</h3>
+}
+<div>
+    <form method="post" action="/Dict/UpdateSave/">
+        <input type="hidden" value="@ViewBag.Id" name="Id" />
+        <label>Фамилия: </label> <input type="text" value="@ViewBag.LastName" name="LastName" />
+        <label>Номер телефона: </label> <input type="text" value="@ViewBag.PhoneNumber" name="PhoneNumber" />
+        <input type="submit" value="Редактировать" />
+    </form>
+</div>
+

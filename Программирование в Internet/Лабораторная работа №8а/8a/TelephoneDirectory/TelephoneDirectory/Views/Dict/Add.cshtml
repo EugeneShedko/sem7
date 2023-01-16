@@ -1,0 +1,13 @@
+﻿@section Header
+    {
+    <h3>Добавление новой записи</h3>
+}
+
+<div>
+    <form method="post" action="/Dict/AddSave/">
+        <input type="hidden" value="0" name="Id" />
+        <label>Фамилия: </label> <input type="text" name="LastName" />
+        <label>Номер телефона: </label> <input type="text" name="PhoneNumber" />
+        <input type="submit" value="Добавить" />
+    </form>
+</div>

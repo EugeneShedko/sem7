@@ -1,0 +1,19 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section Header
+        {
+    <h3>Удаление записи</h3>
+}
+<div>
+    <p>Удалить запись?</p>
+    <form method="post" action="/Dict/DeleteSave/">
+        <input type="hidden" value="@ViewBag.Id" name="Id" />
+        <a href="/Dict/Index/">Нет</a>
+        <input type="submit" value="Да" />
+    </form>
+</div>
+
